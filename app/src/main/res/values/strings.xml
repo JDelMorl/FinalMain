@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalMain</string>
+    <string name="title">buzzr</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="slogan">See What All the Buzz is About</string>
+    <string name="postHint">Enter post here</string>
+    <string name="create">Create Your Post</string>
+    <string name="postButton">Post</string>
+    <string name="userPosted">User Posted: </string>
+</resources>
